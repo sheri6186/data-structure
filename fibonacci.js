@@ -10,3 +10,4 @@ console.log(fibonacci(3));
 console.log(fibonacci(4))
 console.log(fibonacci(7));
 console.log(fibonacci(5))
+//time complexity = O(n)
