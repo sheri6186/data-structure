@@ -10,3 +10,4 @@ function prime(n){
     return true
 }
 console.log(prime(5));
+// time complexity=O(sqrt(n))
