@@ -7,3 +7,4 @@ function summation(n){
 }
 let num=4;
 console.log(summation(num))
+//O(n) is linear time complexity for this program
