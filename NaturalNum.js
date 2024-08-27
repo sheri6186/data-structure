@@ -8,3 +8,10 @@ function summation(n){
 let num=4;
 console.log(summation(num))
 //O(n) is linear time complexity for this program
+
+
+//constant time complexity for natural num which is O(1)
+function sumNaturalNum(num){
+    return (num*(num+1))/2;
+}
+console.log(sumNaturalNum(4));
