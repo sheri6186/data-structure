@@ -7,3 +7,4 @@ function factorial(n){
 }
 console.log(factorial(5));
 //time complexity = O(n)
+//this is worst case time complexity which is linear 
